@@ -13,19 +13,13 @@ https://nirzak-streak-stats.vercel.app/?user=Aishwarya Kale&theme=dark&hide_bord
 https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwarya Kale&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact
 
 ## 🏆 GitHub Trophies
-https://github-profile-trophy.vercel.app/?username=Aishwarya Kale&theme=radical&no-frame=false&no-bg=true&margin-w=4
+https://github-profile-trophy.vercel.app/?username=AishwaryaKale&theme=radical&no-frame=false&no-bg=true&margin-w=4
 
 ### ✍️ Random Dev Quote
 https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
 
 ### 🔝 Top Contributed Repo
-https://github-contributor-stats.vercel.app/api?username=Aishwarya Kale&limit=5&theme=dark&combine_all_yearly_contributions=true
+https://github-contributor-stats.vercel.app/api?username=AishwaryaKale&limit=5&theme=dark&combine_all_yearly_contributions=true
 
 ---
-https://visitcount.itsvg.in/api?id=Aishwarya Kale&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-[BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Buy Me a Coffee  ) <br> [PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white) <br> (https://paypal.me/ PayPal ) Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Patreon)(https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ Ko-fi) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+https://visitcount.itsvg.in/api?id=AishwaryaKale&icon=0&color=0)](https://visitcount.itsvg.in)
